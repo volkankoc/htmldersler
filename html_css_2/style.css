@@ -17,6 +17,7 @@
 {
     width: 33.33333%;
     float: left;
+    
 }
 .col4
 {
@@ -59,6 +60,10 @@
     width: 8.333333%;
     float: left;
 }
+.ortala
+{
+    text-align: center;
+}
 
 .red{background-color: red}
 .yellow{background-color: yellow}
@@ -69,4 +74,12 @@
 .royalblue{background-color: royalblue}
 .black{background-color: black}
 .cyan{background-color: cyan}
-
+.tred{color: red}
+.tyellow{color: yellow}
+.tblue{color: blue}
+.tgreen{color: green}
+.torange{color: orange}
+.tpink{color: pink}
+.troyalblue{color: royalblue}
+.tblack{color: black}
+.tcyan{color: cyan}
