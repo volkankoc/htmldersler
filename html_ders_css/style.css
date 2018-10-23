@@ -1,0 +1,9 @@
+.cerceve{
+    background-color: burlywood;
+    position: relative;  
+}
+.solust{
+    top: 15px;
+    left: 255px;
+    position:absolute;
+}

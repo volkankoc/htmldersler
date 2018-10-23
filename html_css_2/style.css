@@ -1,0 +1,72 @@
+.container{
+
+}
+.row{
+    clear: both;
+}
+.col10{
+    width: 100%;
+
+}
+.col2
+{
+    width: 50%;
+    float: left;
+}
+.col3
+{
+    width: 33.33333%;
+    float: left;
+}
+.col4
+{
+    width: 25%;
+    float: left;
+}
+.col5
+{
+    width: 20%;
+    float: left;
+}
+.col6
+{
+    width: 16.66666%;
+    float: left;
+}
+.col7
+{
+    width: 14.285%;
+    float: left;
+}
+
+.col8{
+    width: 12.5%;
+    float: left;  
+}
+.col9{
+    width: 11.11111%;
+    float: left;  
+}
+.col10{
+    width: 10%;
+    float: left;
+}
+.col11{
+    width: 9.09%;
+    float: left;
+}
+.col12{
+    width: 8.333333%;
+    float: left;
+}
+
+.red{background-color: red}
+.yellow{background-color: yellow}
+.blue{background-color: blue}
+.green{background-color: green}
+.orange{background-color: orange}
+.pink{background-color: pink}
+.royalblue{background-color: royalblue}
+.black{background-color: black}
+.cyan{background-color: cyan}
+
