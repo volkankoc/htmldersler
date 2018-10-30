@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="container">
+       <div class="row">
+           <h1>WEB SİTE DENEME</h1>
+       </div>
+       <div class="row">
+           <div class="menu">
+               <a href="http://">ANASAYFA</a>
+               <a href="http://">RESİMLER</a>
+               <a href="http://">HAKKINDA</a>
+               <a style="float:right" href="http://">İLETİŞİM</a>
+           </div>
+       </div>
+       <div class="row">
+           <div class="leftcolumn">
+               <h2>Sol Bölüm</h2>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro recusandae voluptatum eum ducimus possimus itaque, atque iste at quasi! Sunt enim facere vero, distinctio minus autem magni quas at repellendus?</p>
+               <img src="resim1.jpg" alt="">
+               <h2>Sol Bölüm</h2>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro recusandae voluptatum eum ducimus possimus itaque, atque iste at quasi! Sunt enim facere vero, distinctio minus autem magni quas at repellendus?</p>
+               <img src="resim1.jpg" alt="">
+           </div>
+           <div class="rightcolumn">
+               <h3>Sağ Alan</h3>
+               <img src="resim1.jpg" width="100px" alt="">
+               <h3 style="text-align: right">Sağ Alan</h3>
+               <img style="float:right" src="resim1.jpg" width="100px" alt="">
+               
+           </div>
+         
+       </div>
+   </div>
+</div>
+</body>
+</html>
