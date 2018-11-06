@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+.buton{
+    background-color: #750A64;
+    font-size: 25px;
+    border-bottom: 4px solid #46063c;
+    border-top: 2px solid #46063c;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+/*Buton üzerine gelindiğinde yapılacak davranış*/
+.buton:hover{
+    border-bottom: 5px solid white;
+    border-top: 2px solid white;
+   
+}
+.buton2{
+    background-color: white;
+    font-size: 25px;
+    border: 4px solid #46063c;
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+/*Buton üzerine gelindiğinde yapılacak davranış*/
+.buton2:hover{
+    background-color: #46063c;
+    border: 4px solid white;
+    color:white;
+    border-radius: 5px;
+}
+
+/*Dikey Menü örneği*/
+
+.buton3{
+    background-color: white;
+    font-size: 25px;
+    border: 1px solid #46063c;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: block;
+    width: 220px;
+    border-radius: 5px;
+ 
+
+
+}
+/*Buton üzerine gelindiğinde yapılacak davranış*/
+.buton3:hover{
+    background-color: #46063c;
+    border: 1px solid white;
+    color:white;
+    border-radius: 5px;
+}
+/*Butonların arkaplan ayarları yapılıyor*/
+.butongrup{
+    background-color: #46063c;
+    width: 242px;
+    padding: 5px;
+    border-radius: 5px;
+    float:right;
+}
+
+
+
